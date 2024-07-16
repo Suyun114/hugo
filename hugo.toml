@@ -1,0 +1,4 @@
+baseURL = 'https://blog.suyun.moe'
+languageCode = 'zh-CN'
+title = "Suyun's Blog"
+theme = 'diary'
